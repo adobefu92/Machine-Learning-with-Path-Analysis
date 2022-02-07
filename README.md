@@ -9,4 +9,4 @@ This repo is maintained by Dr. Weike Lu and [NextGen Transportation Lab](https:/
 The current members are:
 * [Dr. Weike Lu](http://web.suda.edu.cn/wklu/) [GitHub](https://github.com/wkgj)
 * [Xing Fu](https://github.com/adobefu92)
-* [Chenxuan Yang](https://github.com/adobefu92)
+* [Chenxuan Yang](https://github.com/ChenxuanYang)
