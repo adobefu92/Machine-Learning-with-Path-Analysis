@@ -5,6 +5,7 @@ This repo is for data analysis with machine learning. This tool incorportates th
 pandas, numpy, scikit-learn
 ## Team
 This repo is maintained by Dr. Weike Lu and [NextGen Transportation Lab](https://spark.adobe.com/page/bPbQxqyPe6APi/) from the University of Alabama.
+
 The current members are:
 * [Dr. Weike Lu](http://web.suda.edu.cn/wklu/) [GitHub](https://github.com/wkgj)
 * [Xing Fu](https://github.com/adobefu92)
