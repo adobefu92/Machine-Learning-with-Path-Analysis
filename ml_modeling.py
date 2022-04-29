@@ -32,6 +32,10 @@ def ml_modeling(model_name,X_train, X_test, y_train, y_test):
         clf = MLPClassifier(solver='lbfgs', alpha=1e-5,
                          hidden_layer_sizes=(5, 4), max_iter=2000 ,random_state=1)
         clf.fit(X_train, y_train.ravel())
+        y_pred=clf.predict(X_test)
+    elif model=="LR":  
+        from sklearn.linear_model import LogisticRegression
+        clf = LogisticRegression()
         y_pred=clf.predict(X_test)   
 
     end = time.time()
